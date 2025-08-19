@@ -1,0 +1,16 @@
+__pycache__/
+venv/ 
+rewards.png 
+models/v1/
+models/v2/
+models/v3/blockhitter_0.pth
+models/v3/blockhitter_100.pth
+models/v3/blockhitter_200.pth
+models/v3/blockhitter_300.pth
+models/v3/blockhitter_400.pth
+models/v3/blockhitter_500.pth
+models/v3/blockhitter_600.pth
+models/v3/blockhitter_700.pth
+models/v3/blockhitter_800.pth
+models/v3/blockhitter_900.pth
+models/v3/blockhitter_1000.pth
