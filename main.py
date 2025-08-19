@@ -91,7 +91,7 @@ def train(modelPath=None,startEpisode=1100):
 
 def test(modelPath='models/blockhitter_0.pth'): 
     env = Environment() 
-    agent = DQNAgent(stateDim=9, actionDim=3)
+    agent = DQNAgent(stateDim=8, actionDim=3)
 
     try: 
         agent.load(modelPath)
